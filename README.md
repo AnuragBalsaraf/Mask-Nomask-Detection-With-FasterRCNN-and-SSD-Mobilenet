@@ -2,7 +2,7 @@
 
 **Datasets** : [https://www.kaggle.com/andrewmvd/face-mask-detection](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
-**Label\_map** : [labelmap.pbtxt](https://github.com/hgoyal194/real-time-facemask-detection/blob/master/labelmap.pbtxt)
+**Label\_map** : [labelmap.pbtxt](https://github.com/AnuragBalsaraf/Mask-Nomask-Detection-With-FasterRCNN-and-SSD-Mobilenet/blob/main/labelmap.pbtxt)
 
 ## **For setup and Training:**
 
