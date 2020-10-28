@@ -17,7 +17,7 @@ There are also another methods without uploading</br>
 ## Why I used ssdlite\_mobilenet\_v2\_coco model?
 
 - After some investigation with the some models I decided to use  **ssdlite\_mobilenet\_v2\_coco** with **150k steps**  as it offers a faster speed and good [mean\_average\_precision](http://cocodataset.org/#detection-eval) (mAP).
-- I also trained with **&#39;faster\_rcnn\_inception&#39; with 200k** steps and got very good accuracy but speed is very low (1 fps).
+- I also trained with **&#39;faster\_rcnn\_inception&#39; with 150k** steps and got very good accuracy but speed is very low (1 fps).
 
 ## **References:**
 
