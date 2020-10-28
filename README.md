@@ -12,7 +12,7 @@
 Upload all the model files with train, test record files to your drive then use colab for training</br>
 There are also another methods without uploading</br>
 
-**For Live cam detection:** [mask\_detect\_live\_cam.py](https://github.com/hgoyal194/real-time-facemask-detection/blob/master/mask_detect_live_cam.py)
+**For Live cam detection:** [app.py](https://github.com/AnuragBalsaraf/Mask-Nomask-Detection-With-FasterRCNN-and-SSD-Mobilenet/blob/main/app.py)
 
 ## Why I used ssdlite\_mobilenet\_v2\_coco model?
 
