@@ -8,7 +8,7 @@
 
 **Local/windows:** [https://c17hawke.github.io/tfod-setup/](https://c17hawke.github.io/tfod-setup/)
 
-**For using colab gpu for training:** [mask\_detection\_ssdlie\_tf1\_x.ipynb](https://github.com/hgoyal194/real-time-facemask-detection/blob/master/mask_detection_ssdlie_tf1_x.ipynb)</br>
+**For using colab gpu for training:** [mask\_detection\_ssdlie\_tf1\_x.ipynb](https://https://github.com/AnuragBalsaraf/Mask-Nomask-Detection-With-FasterRCNN-and-SSD-Mobilenet/blob/main/MaskNoMask_Faster_RCNN.ipynb)</br>
 Upload all the model files with train, test record files to your drive then use colab for training</br>
 There are also another methods without uploading</br>
 
