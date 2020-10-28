@@ -1,4 +1,4 @@
-# **Have a look (**[**Live Demo**](https://www.linkedin.com/feed/update/urn:li:activity:6700769763758542848/)**) of real-time face mask detection.**
+# **Have a look (**[**Live Demo**](https://www.linkedin.com/posts/anurag-a1183a116_created-a-real-time-mask-detection-project-activity-6727190352874287104-mQMf)**) of real-time face mask detection.**
 
 **Datasets** : [https://www.kaggle.com/andrewmvd/face-mask-detection](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
