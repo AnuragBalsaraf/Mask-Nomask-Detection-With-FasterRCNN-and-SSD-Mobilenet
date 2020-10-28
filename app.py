@@ -63,7 +63,7 @@ class VideoStream:
 cap = cv2.VideoCapture(0)  # Change only if you have more than one webcams
 
 # Path to frozen detection graph. This is the actual model that is used for the object detection.
-PATH_TO_CKPT = 'frozen_inference_graph.pb'
+PATH_TO_CKPT = 'frozen_inference_graph_ssd.pb'
 # List of the strings that is used to add correct label for each box.
 PATH_TO_LABELS = 'labelmap.pbtxt'
 # Number of classes to d etect
